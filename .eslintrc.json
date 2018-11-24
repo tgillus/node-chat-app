@@ -13,8 +13,9 @@
     "mocha": true
   },
   "globals": {
+    "io": true,
     "jQuery": true,
-    "io": true
+    "moment": true
   },
   "extends": "eslint:recommended"
 }
