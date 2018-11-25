@@ -15,7 +15,8 @@
   "globals": {
     "io": true,
     "jQuery": true,
-    "moment": true
+    "moment": true,
+    "Mustache": true
   },
   "extends": "eslint:recommended"
 }
